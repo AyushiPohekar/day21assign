@@ -1,0 +1,12 @@
+#demo
+{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 180px;
+font-size:   100px;
+font-weight: bolder;
+font-family:'Times New Roman', Times, serif;
+background-image: linear-gradient(rgb(255, 38, 0),white,rgba(0, 128, 0, 0.836));
+/* background-color: ; */
+}
